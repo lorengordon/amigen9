@@ -40,7 +40,6 @@ MINXTRAPKGS=(
   kexec-tools
   libnsl
   lvm2
-  python3-pip
   rng-tools
   unzip
 )
